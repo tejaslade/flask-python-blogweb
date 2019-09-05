@@ -1,0 +1,38 @@
+{
+"params":
+{"local_uri" : "mysql://root:$Tejaslade89$@localhost/myblogweb",
+"prod_uri" : "mysql://root:$Tejaslade89$@localhost/myblogweb",
+"no_of_post":3,
+"blogname":"Prohack freedom",
+"admin_img":"solid.svg",
+"admin_user":"tejaslade",
+"admin_pass":"tejaslade89",
+"upload_location":"//home//tejas//backup//flaskclean//static"
+},
+
+
+
+"indexcust":
+{ "heading":"",
+"subheading":"",
+"leftside_heading":"",
+"web_title":""
+
+},
+
+"webphotos":
+{"index":"",
+"contacts":"",
+"about":"",
+"admin":""},
+
+"social_link":
+{"fb_link":"",
+"insta_link":"",
+"git_link":"",
+"twit_link":""}
+
+
+
+
+}
